@@ -1,0 +1,4 @@
+name = "PokerGUI"
+uuid = "0cf26bd1-18f1-4113-8ab3-7f9b6ef93334"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
